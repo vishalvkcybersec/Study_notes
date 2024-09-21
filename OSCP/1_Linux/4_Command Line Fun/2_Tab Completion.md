@@ -1,0 +1,2 @@
+The bash shell auto completion funnction allows us to complete file names and directory paths with the tab key.
+This is such a timesaver that makes other shells which lack this feature feels clumsy and slow.
